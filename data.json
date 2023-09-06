@@ -1,0 +1,100 @@
+{
+     "chat" : [
+    {
+      "id": "1",
+      "image":
+        "https://cdn4.iconfinder.com/data/icons/glyphs/24/icons_mobile-1024.png",
+      "name": "Phone",
+      "time": "7.20 am",
+      "msg": "Samsung galaxy S23 purchased on 20/03/2023"
+    },
+    {
+      "id": "2",
+      "image":
+        "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-camera-1024.png",
+      "name": "Camera",
+      "time": "8.20 am",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "3",
+      "image":
+        "https://cdn0.iconfinder.com/data/icons/news-and-magazine/512/fashion-1024.png",
+      "name": "Shirt",
+      "time": "Yesterday",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "4",
+      "image":
+        "https://cdn0.iconfinder.com/data/icons/laundry-75/512/N_T_1260Artboard_1_copy_7-1024.png",
+      "name": "Pant",
+      "time": "Yesterday",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "5",
+      "image":
+        "https://cdn4.iconfinder.com/data/icons/photographer-7/128/battery-charger-recharge-electric-power-1024.png",
+      "name": "Charger",
+      "time": "10/08/23",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "6",
+      "image":
+        "https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/laptop-with-code-1024.png",
+     "name": "Laptop",
+      "time": "10/08/23",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "7",
+      "image":
+        "https://cdn3.iconfinder.com/data/icons/modern-electronic-outline/64/Electronic__11-powerbank-1024.png",
+      "name": "PowerBank",
+      "time": "10/08/23",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "8",
+      "image":
+        "https://cdn1.iconfinder.com/data/icons/barista/256/barista-icons_milk-bottle-plastic-1024.png",
+      "name": "Bottle",
+      "time": "10/08/23",
+      "msg": "Hi Debashish dfsdfgdgfdfgdjdflsjdhfdkjgfhudgsfksdgfdjhfgdkdjhghsg"
+    },
+    {
+      "id": "9",
+      "image":
+        "https://cdn3.iconfinder.com/data/icons/solid-locations-icon-set/64/Designer_Handbags_2-1024.png",
+      "name": "Purse",
+      "time": "10/08/23",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "10",
+      "image":
+        "https://cdn1.iconfinder.com/data/icons/vehicle-37/24/Bycicle-1024.png",
+      "name": "Cycle",
+      "time": "10/08/23",
+      "msg": "dfsdfgdgfdfgd"
+    },
+    {
+      "id": "11",
+      "image":
+        "https://cdn4.iconfinder.com/data/icons/BRILLIANT/networking/png/400/headphone.png",
+      "name": "Headphones",
+      "time": "10/08/23",
+      "msg": "Hi Debashish dfsdfgdgfdfgdjdflsjdhfdkjgfhudgsfksdgfdjhfgdkdjhghsg"
+    },
+    {
+      "id": "12",
+      "image":
+        "https://cdn1.iconfinder.com/data/icons/camping-65/500/backpack-1024.png",
+      "name": "Bag",
+      "time": "10/08/23",
+      "msg": "dfsdfgdgfdfgd"
+    }
+  ]
+}
